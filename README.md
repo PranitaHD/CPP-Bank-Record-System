@@ -1,0 +1,2 @@
+# CPP-Bank-Record-System
+Language :- C++ Programming. In this code a simple Bank Record System is represented. Here you can add a record, search for a record, see existing record, update previous record, and also delete existing record.  All the record data will be stored in a file, namely "record.bank".  You have to enter your details first i.e. add a record then you can perform remaining options. I have used Visual Studio Code here.
